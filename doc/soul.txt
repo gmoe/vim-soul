@@ -1,0 +1,23 @@
+*soul.txt* Syntax highlighter plugin for the SOUL programming language.
+*soul*
+ __   __   __     __    __     ______     ______     __  __     __
+/\ \ / /  /\ \   /\ "-./  \   /\  ___\   /\  __ \   /\ \/\ \   /\ \
+\ \ \'/   \ \ \  \ \ \-./\ \  \ \___  \  \ \ \/\ \  \ \ \_\ \  \ \ \____
+ \ \__|    \ \_\  \ \_\ \ \_\  \/\_____\  \ \_____\  \ \_____\  \ \_____\
+  \/_/      \/_/   \/_/  \/_/   \/_____/   \/_____/   \/_____/   \/_____/
+
+            Created by: Griffin Moe <me@griffin.moe>
+            Available at: github.com/gmoe/vim-soul
+
+==============================================================================
+INTRODUCTION                                                      *soul-intro*
+
+This is a minimal syntax-highlighting Vim plugin for the SOUL programming
+language. I am not a huge fan of giant, complicated language plugins and this
+plugin is no exception. There are a few settings below (|soul-settings|) that
+might be useful for some people and nothing more.
+
+==============================================================================
+SETTINGS                                                       *soul-settings*
+
+vim:tw=78:sw=4:ft=help:norl:
